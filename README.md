@@ -44,7 +44,7 @@ We use [Google Release Please](https://github.com/marketplace/actions/release-pl
 
 ## Authors
 
-- **Rafael Alexandrino** - _Initial work_ :: [@kyronsatt](https://github.com/kyronsatt)
+- **Luis Gustavo** - _Initial work_ :: [@kyronsatt](https://github.com/kyronsatt)
 
 See also the list of [contributors](https://github.com/kyronsatt/o-clock/graphs/contributors) who participated in this project.
 
