@@ -23,4 +23,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
 
-⭐ **Curiosidade:** [Algo interessante sobre você!]  
+⭐ **Curiosidade:** Sou apaixonado por desenvolvimento web e estou constantemente aprimorando minhas habilidades em HTML, CSS, JavaScript e React. Adoro criar soluções inovadoras e estou sempre em busca de novos desafios para expandir meu conhecimento nessas tecnologias!  
