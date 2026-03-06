@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-# 👨‍💻 Luis Gustavo Alves Silva
+# 👨‍💻 Luis Gustavo Alves
 
 🚀 Desenvolvedor Web & Designer  
 💼 Criador de soluções digitais para empresas  
@@ -37,35 +37,14 @@ Sistema web para pequenos comércios controlarem vendas e estoque.
 🛒 **Portal de Ofertas**  
 Plataforma web para divulgação de ofertas de supermercados.
 
-🧾 **Gerador de Cartazes**  
-Sistema que gera cartazes promocionais automaticamente em PDF.
-
 🌐 **Sites para Empresas**  
 Desenvolvimento de sites institucionais modernos e responsivos.
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribuições
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSUARIO&theme=tokyonight)
-
----
-
-## 📫 Contato
-
-💼 Portfólio  
-🌐 Website  
-
-📧 Email  
-📱 WhatsApp  
 
 ---
 
