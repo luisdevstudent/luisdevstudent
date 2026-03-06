@@ -1,26 +1,72 @@
-# 👋 Olá, eu sou Luis Gustavo!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-💻 Desenvolvedor Front-end
-🌎 De Balsas/Brasil 
-📚 Aprendendo JavaScript e React  
-🎯 Metas: Me tornar um **desenvolvedor front-end especializado em React**, criando interfaces incríveis e acessíveis.
+# 👨‍💻 Luis Gustavo Alves Silva
 
-## 🛠️ Tecnologias e Ferramentas  
+🚀 Desenvolvedor Web & Designer  
+💼 Criador de soluções digitais para empresas  
+📱 Desenvolvimento de sistemas, sites e aplicativos  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+Sou apaixonado por tecnologia e desenvolvimento de soluções que ajudam empresas a crescer no digital.
 
-## 📊 Estatísticas do GitHub  
+---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luisdevstudent&show_icons=true&theme=dracula)  
+## 🚀 Tecnologias que utilizo
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdevstudent&layout=compact&theme=dracula)  
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode)
 
-## 🔗 Conecte-se comigo  
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
+## 🧠 O que eu desenvolvo
 
-⭐ **Curiosidade:** Sou apaixonado por desenvolvimento web e estou constantemente aprimorando minhas habilidades em HTML, CSS, JavaScript e React. Adoro criar soluções inovadoras e estou sempre em busca de novos desafios para expandir meu conhecimento nessas tecnologias!  
+✔️ Sites profissionais para empresas  
+✔️ Sistemas web para controle de vendas e gestão  
+✔️ Aplicativos mobile com React Native  
+✔️ Landing pages que convertem clientes  
+✔️ Soluções digitais para negócios locais  
+
+---
+
+## 📌 Projetos em destaque
+
+🚖 **App de Mobilidade Urbana**  
+Aplicativo para mototáxi com localização em mapa e sistema de corridas.
+
+📊 **Sistema de Controle de Vendas**  
+Sistema web para pequenos comércios controlarem vendas e estoque.
+
+🛒 **Portal de Ofertas**  
+Plataforma web para divulgação de ofertas de supermercados.
+
+🧾 **Gerador de Cartazes**  
+Sistema que gera cartazes promocionais automaticamente em PDF.
+
+🌐 **Sites para Empresas**  
+Desenvolvimento de sites institucionais modernos e responsivos.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSUARIO&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+💼 Portfólio  
+🌐 Website  
+
+📧 Email  
+📱 WhatsApp  
+
+---
+
+⭐ Sempre buscando evoluir como desenvolvedor e criar soluções que realmente impactem negócios.
