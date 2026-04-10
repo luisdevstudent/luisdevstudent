@@ -1,22 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-# 👨‍💻 Luis Gustavo Alves
+# Luis Gustavo Alves
 
-🚀 Desenvolvedor Web & Designer  
-💼 Criador de soluções digitais para empresas  
-📱 Desenvolvimento de sistemas, sites e aplicativos  
+Desenvolvedor Web & Designer  
+Criador de soluções digitais para empresas  
+Desenvolvimento de sistemas, sites e aplicativos  
 
 Sou apaixonado por tecnologia e desenvolvimento de soluções que ajudam empresas a crescer no digital.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## Tecnologias que utilizo
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode)
 
 ---
 
-## 🧠 O que eu desenvolvo
+## O que eu desenvolvo
 
 ✔️ Sites profissionais para empresas  
 ✔️ Sistemas web para controle de vendas e gestão  
@@ -26,23 +26,23 @@ Sou apaixonado por tecnologia e desenvolvimento de soluções que ajudam empresa
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-🚖 **App de Mobilidade Urbana**  
+ **App de Mobilidade Urbana**  
 Aplicativo para mototáxi com localização em mapa e sistema de corridas.
 
-📊 **Sistema de Controle de Vendas**  
+ **Sistema de Controle de Vendas**  
 Sistema web para pequenos comércios controlarem vendas e estoque.
 
-🛒 **Portal de Ofertas**  
+**Portal de Ofertas**  
 Plataforma web para divulgação de ofertas de supermercados.
 
-🌐 **Sites para Empresas**  
+**Sites para Empresas**  
 Desenvolvimento de sites institucionais modernos e responsivos.
 
 ---
 
-## 🔥 Contribuições
+## Contribuições
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSUARIO&theme=tokyonight)
 
