@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e desenvolvimento de soluções que ajudam empresa
 
 ## Tecnologias que utilizo
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode)
 
 ---
 
