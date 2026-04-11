@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=190&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=190&section=header"/>
 
 # Luis Gustavo Alves
 
