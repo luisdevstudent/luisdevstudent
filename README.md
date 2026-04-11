@@ -6,7 +6,7 @@ Desenvolvedor Web & Designer
 Criador de soluções digitais para empresas  
 Desenvolvimento de sistemas, sites e aplicativos  
 
-Sou apaixonado por tecnologia e desenvolvimento de soluções que ajudam empresas a crescer no digital.
+Sou apaixonado por tecnologia e desenvolvimento de soluções que ajudam empresas a se destacarem no digital.
 
 ---
 
